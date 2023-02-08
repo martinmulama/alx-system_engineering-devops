@@ -4,3 +4,4 @@ This project folder contains the following scripts and their functions:
     2-bring_me_home: that changes the working directory to the user’s home directory.
     3-listfiles: that Display current directory contents in a long format.
     4-listmorefiles: that Display current directory contents, including hidden files (starting with .) in long format
+    5-listfilesdigitonly: that Display current directory contents in long format with user and group IDs displayed numerically and hidden files starting     with (.)

@@ -13,3 +13,4 @@ This project folder contains the following scripts and their functions:
     11-lists: that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
     12-file_type: that prints the type of the file named iamafile
     13-symbolic_link : that Create a symbolic link to /bin/ls, named __ls__
+    14-cpoy html :that  copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory

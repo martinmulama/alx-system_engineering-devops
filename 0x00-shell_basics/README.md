@@ -3,3 +3,4 @@ This project folder contains the following scripts and their functions:
     1-listit: that Display the contents list of your current directory.
     2-bring_me_home: that changes the working directory to the user’s home directory.
     3-listfiles: that Display current directory contents in a long format.
+    4-listmorefiles: that Display current directory contents, including hidden files (starting with .) in long format

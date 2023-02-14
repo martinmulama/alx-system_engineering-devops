@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name ".*" -o \( -type d -empty -o -type f -size 0 \) | ls -lR
+find . -empty -printf '%f\n'
